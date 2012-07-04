@@ -55,7 +55,7 @@
 
 @html_options_to_s = (html_options) =>
   if $.isPlainObject html_options
-    (" #{k}=\"#{v}\""  for k, v of html_options).join()
+    (" #{k}=\"#{v}\""  for k, v of html_options).join(' ')
   else
     ''
 
