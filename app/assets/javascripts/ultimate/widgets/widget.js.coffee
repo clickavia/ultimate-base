@@ -5,7 +5,7 @@
 # TODO inheritance:
 #   ? class Classes.Proto.Observer see jU-widget
 
-console.log 'Ultimate.Proto.Widget', Ultimate  if console?
+#console.log 'Ultimate.Proto.Widget', Ultimate  if console?
 
 class Ultimate.Proto.Widget extends Ultimate.Proto.Gear
 

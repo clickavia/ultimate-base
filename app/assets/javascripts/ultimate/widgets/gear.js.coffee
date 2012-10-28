@@ -4,7 +4,7 @@
 #   * options and settings controls
 #   * translations
 
-console.log 'Ultimate.Proto.Gear', Ultimate  if console?
+#console.log 'Ultimate.Proto.Gear', Ultimate  if console?
 
 class Ultimate.Proto.Gear
 
